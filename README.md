@@ -5,7 +5,7 @@ A simple recipe website built as part of The Odin Project curriculum. This proje
 ## Recipes Included
 
 - [Biryani](recipes/biryani.html)
-- [Pulihora](recipes/pulihora.html)
+- [Pulihora](recipes/Tamarind_Rice.html)
 - [Panakam](recipes/panakam.html)
 
 ## Features
